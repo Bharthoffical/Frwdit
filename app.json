@@ -23,15 +23,15 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": ""
+      "value": "1947404425:AAGnx0LoVmV0vApL-BWWpJYJIPvwTJ17ZXY"
     },
     "TO_CHANNEL": {
       "description": "Enter Your channel Id must add Eg:- -100xxxxxxxxx",
-      "value": ""
+      "value": "-1001635436035"
     },
     "FROM_CHANNEL": {
       "description": "enter Channel username Eg:- @abcdefghijk",
-      "value": ""
+      "value": "@Lauren_GermanRobot"
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
@@ -43,7 +43,14 @@
     },
     "CAPTION": {
       "description": "If you want to add a caption to the forwarded file, enter it here",
-      "required": false
+      "value": "🅹🅾🅸🅽
+
+Movies World 💖 @T5links 
+Cⱥrtooภs World 💖 @T6links
+Webseries World 💖 @T8links
+Movies Backup 💖 @T0links
+
+🦋 JØiภ 🦋 ꢺĦȺℜᎬ 🦋 ꢺ℧ᏢᏢØℜᎢ 🦋"
     },
     "FILTER_TYPE": {
       "description": "Type Of filters {document , audio , photo , video , animation , (empty = forward all kind of messages)}",
@@ -51,7 +58,7 @@
     },
     "SESSION": {
       "description": "Pyrogram string Seccion https://replit.com/@JijinR/PyroSessionString",
-      "value": ""
+      "value": "BQAVoaKIl7V-YU0_aOkEQ6KvjRLoNlB_hI4Y1vnpyORvcK2yKZAfc4t3rnXY_zVH_KtPobd9AoTkr4ANZ6dZ4CR3VBRvlUCxFQwYPplA9wxGU1k9QK-I6U4rB6ag1T3fOdwz3YwfySrvEnQ8qNxazeagfIkXzChCLYuk51DFYgIstlyE7vsF7zTRrORUbv05WTKVQX2oyt3Ib1sublL_0x7pSTyUPmZKaaUD9P4ctOH5KjsIjKWY-Aam33LEjt2Brb7li4j1xbR1AXAXzSMitjnIgSEEhwCnI3ipLsAVLObXzyrKy6wJpeZmiXjnaKBLGRtdSbHwtQbCcpwUavubWQoOUSad8wA"
     }
   },
   "formation": {
