@@ -11,15 +11,15 @@
   ],
   "success_url": "https://t.me/DForDarkAngel",
   "website": "https://github.com/Jijinr/Frwdit",
-  "repository": "https://github.com/Jijinr/Frwdit",
+  "repository": "https://github.com/Bharthoffical/Frwdit",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "4825325"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
-      "value": ""
+      "value": "75983950a8ceb9e4fa84b5e47f0f620b"
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
@@ -35,7 +35,7 @@
     },
     "OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": ""
+      "value": "1361485299"
     },
     "SKIP_NO": {
       "description": "Enter File Skiping Number",
