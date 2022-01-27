@@ -43,14 +43,7 @@
     },
     "CAPTION": {
       "description": "If you want to add a caption to the forwarded file, enter it here",
-      "value": "🅹🅾🅸🅽
-
-Movies World 💖 @T5links 
-Cⱥrtooภs World 💖 @T6links
-Webseries World 💖 @T8links
-Movies Backup 💖 @T0links
-
-🦋 JØiภ 🦋 ꢺĦȺℜᎬ 🦋 ꢺ℧ᏢᏢØℜᎢ 🦋"
+      "required": "false"
     },
     "FILTER_TYPE": {
       "description": "Type Of filters {document , audio , photo , video , animation , (empty = forward all kind of messages)}",
